@@ -1,0 +1,24 @@
+@font-face {
+    font-family: TTNorms;
+    src: url("/TTNorms.otf");
+}
+
+html {
+    font-family: TTNorms;
+    color: #0b3b3c;
+
+    body,
+    h1,
+    h2,
+    h3,
+    h4,
+    h5,
+    h6,
+    p {
+        margin: 0;
+    }
+}
+
+* {
+    box-sizing: border-box;
+}
